@@ -6,7 +6,7 @@ export default function Protected({ token, onLogout }) {
   useEffect(() => {
     const fetchProtected = async () => {
       try {
-        const res = await fetch("http://localhost:4000/api/protected", {
+        const res = await fetch("https://jwt-autthentication.vercel.app/api/protected", {
           headers: { Authorization: `Bearer ${token}` },
         });
         const data = await res.json();
