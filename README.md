@@ -1,7 +1,3 @@
-Perfect ✅ — here’s a clean, professional **`README.md`** for your JWT Authentication project (React + Express).
-It explains setup, usage, and key concepts — ready to drop into your repo root.
-
----
 
 ## 📘 `README.md`
 
@@ -240,22 +236,3 @@ logs/
 * 📱 Responsive dashboard layout
 
 ---
-
-## 💬 Author
-
-**Your Name**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🌐 [https://github.com/your-username](https://github.com/your-username)
-
----
-
-## 🪪 License
-
-MIT License © 2025 [Your Name]
-
-```
-
----
-
-Would you like me to personalize this README (with your **name**, **GitHub username**, and **email**) so you can upload it directly to your repo?
-```
