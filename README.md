@@ -1,14 +1,13 @@
 
 ## 📘 `README.md`
 
-```markdown
+
 # 🔐 JWT Authentication App (React + Express)
 
 A simple full-stack web application demonstrating **JWT-based authentication** using a **React frontend** and an **Express.js backend**.
 
 This project implements **login, token generation, and protected route verification**, with tokens stored securely on the frontend.
 
----
 
 ## 🧩 Features
 
@@ -19,11 +18,11 @@ This project implements **login, token generation, and protected route verificat
 - 🚀 React frontend + Express backend  
 - ⚙️ Token expiration and validation demo  
 
----
+
 
 ## 📁 Project Structure
 
-```
+
 
 jwt-auth-app/
 │
@@ -41,9 +40,8 @@ jwt-auth-app/
 │
 └── README.md
 
-````
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -54,7 +52,7 @@ git clone https://github.com/<your-username>/jwt-auth-app.git
 cd jwt-auth-app
 ````
 
----
+
 
 ### 2️⃣ Backend Setup (Express)
 
