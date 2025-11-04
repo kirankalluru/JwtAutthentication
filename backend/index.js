@@ -10,7 +10,7 @@ const { authenticateToken } = require('./middleWare/auth');
 const app = express();
 const PORT = process.env.PORT || 4000;
 
-app.use(cors({ origin: 'https://jwt-autthentication-frontend.vercel.app', credentials: true }));
+app.use(cors({ origin: '*', credentials: true }));
 app.use(express.json());
 
 seed().then(() => console.log('Seeded user (kiran@gmail.com / 1234)'));
